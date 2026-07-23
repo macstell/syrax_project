@@ -62,14 +62,13 @@ The Project Syrax is, therefore, a platform that radiates modernity and technolo
   - Node.js
   - Electron
   - Go
-  - Rust
   - FreeBasic
 - Proves that complexity does not need to mean weight.
 - Positions itself as the definitive modern platform for Windows.
 
 ### 6. 📜 Primitive vs Modern
 
-- **Primitives**: C (1972), C++ (roots in 1979), Python (roots in 1980s, released 1991), Java (1995), Go (2009), Rust (2010) → dependentes de headers, runtimes ou máquinas virtuais; soluções suplementares, pesadas e cognitivamente limitadas.
+- **Primitives**: C (1972), C++ (roots in 1979), Python (roots in 1980s, released 1991), Java (1991), Go (2009) → dependentes de headers, runtimes ou máquinas virtuais; soluções suplementares, pesadas e cognitivamente limitadas.
 
 <p align="justify">
 While these primitive languages remain bound to outdated paradigms and structural constraints, Syrax emerges as a truly modern environment, capable of delivering extreme complexity in minimal packages. It unites efficiency, flexibility, and direct system access, proving that modernity is defined not by age but by innovation and clarity of design.
